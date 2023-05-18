@@ -1,0 +1,11 @@
+﻿global using Aggregator.Domain.Entities.PriceRequestAggregate;
+global using Aggregator.Domain.Entities.PriceResponseAggregate;
+global using System.Dynamic;
+global using Microsoft.Extensions.DependencyInjection;
+global using Aggregator.Domain.Entities.Enums;
+global using Aggregator.Domain.Factories;
+global using Aggregator.Domain.Factories;
+global using Aggregator.Presentation.Engines;
+global using Aggregator.Domain.Entities.RiskDataAggregate;
+global using Aggregator.Presentation.Configuration;
+global using Aggregator.Presentation.Engines;
